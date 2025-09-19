@@ -213,8 +213,7 @@ const contentLp01 = {
     ),
     buttonLabel: "Baixar arquivo PDF",
     ctaButtonAriaLabel: "Botão de Contato",
-    linkPdf:
-      "https://drive.google.com/file/d/1rJWee_zeiV181Kf5syFQGM2UTxbA1gM8/view?usp=sharing",
+    linkPdf: "https://limewire.com/d/kbBwC#CciHcCbkvG",
   },
   about: {
     bgImg: bgImg,
