@@ -24,7 +24,8 @@ const currentYear = new Date().getFullYear();
 
 const contentLp01 = {
   infos: {
-    title: "Provesi Assessoria em Dívidas e Crédito | Curitiba - PR",
+    title:
+      "Provesi Assessoria | Regularização de Dívidas e Recuperação de Crédito em Curitiba - PR",
     description:
       "A Provesi Assessoria ajuda você a revisar contratos, negociar dívidas e reduzir juros abusivos em Curitiba - PR. Soluções inteligentes para proteger seu bolso e recuperar o controle financeiro.",
     keywords:
